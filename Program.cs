@@ -129,6 +129,7 @@ Console.WriteLine("Hello, World!");
 //   }
 // }
 
+//How to extract from an array using foreach loop and print those values that starts with a
 string[] name = {"tit", " tat", "at","asdfg "};
 
 foreach(var item in name)
